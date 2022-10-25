@@ -1,0 +1,52 @@
+.header-link:hover,.header-item-contact-link:hover,.hero-button:hover:hover,.footer-item-link:hover{
+    color:#2196F3;
+}
+.body{
+    font-family: Roboto, sans-serif;
+    color: #212121;
+    font-style: normal;
+    font-weight: 400;
+}
+.header-logo{
+    color:inherit;
+    font-weight:700;
+    font-size: 26px;
+    line-height: 1.19;
+    font-family: Raleway;
+    text-decoration: none;
+}
+.header-list-link, .header-list-contact, .features-list, .job-list, .team-list, .footer-list-contact{
+    list-style: none;
+}
+.header-link{
+    color:inherit;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    text-decoration: none;
+}
+.header-item-contact-link{
+    color:inherit;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    text-decoration: none;
+}
+.footer-logo{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: Raleway;
+    color:  #2196F3;
+    line-height: 1.19;
+}
+.footer-location{
+    font-size: 14px;
+    line-height: 1.71;
+    text-decoration: none;
+}
+.footer-item-link{
+    font-size: 14px;
+    color: #757575;
+    line-height: 1.71;
+    text-decoration: none;
+}
